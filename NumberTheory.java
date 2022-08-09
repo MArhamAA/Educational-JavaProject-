@@ -1,3 +1,4 @@
+package demo.test;
 
 import java.awt.Desktop;
 import java.net.URL;

@@ -7,8 +7,11 @@
  *
  * @author mazhar75
  */
+
+package demo.test;
+
 import java.awt.Desktop;
-import java.net.URL:
+import java.net.URL;
 public class GraphTheory extends javax.swing.JFrame {
 
     /**
